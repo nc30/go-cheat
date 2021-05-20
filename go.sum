@@ -1,0 +1,4 @@
+github.com/caarlos0/env v3.5.0+incompatible h1:Yy0UN8o9Wtr/jGHZDpCBLpNrzcFLLM2yixi/rBrKyJs=
+github.com/caarlos0/env/v6 v6.6.0 h1:kVhajCpqX5pSfH41gFd8cPXPZahqJrnn9HxJ1vKftW4=
+github.com/caarlos0/env/v6 v6.6.0/go.mod h1:P0BVSgU9zfkxfSpFUs6KsO3uWR4k3Ac0P66ibAGTybM=
+github.com/matryer/is v1.4.0/go.mod h1:8I/i5uYgLzgsgEloJE1U6xx5HkBQpAZvepWuujKwMRU=
